@@ -25,17 +25,19 @@ I'm a **Computer Science student** at the **University of Federico II in Naples*
 
 ### 🛠️ Languages and Tools
 
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://en.cppreference.com/w/c)  
-[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://en.cppreference.com/w/)  
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://docs.oracle.com/en/java/)  
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/docs/)  
-[![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactnative.dev/docs/getting-started)  
-[![SonarQube](https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-line-wordmark.svg)](https://docs.sonarsource.com/)  
-[![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)](https://www.gnu.org/software/bash/manual/bash.html)  
-[![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg)](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+<p align="left">
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35"/></a>
+  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35"/></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35"/></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35"/></a>
+  <a href="https://reactnative.dev/docs/getting-started" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="35"/></a>
+  <a href="https://docs.sonarsource.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-line-wordmark.svg" alt="SonarQube" width="35"/></a>
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="35"/></a>
+  <a href="https://docs.spring.io/spring-boot/docs/current/reference/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="35"/></a>
+</p>
 
 ### 💡 Computer Science Foundations
 
