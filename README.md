@@ -25,41 +25,17 @@ I'm a **Computer Science student** at the **University of Federico II in Naples*
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" width="40" height="40" style="border-radius:50%; background:#A8B9CC; padding:5px;" alt="C"/>
-  </a>
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cplusplus.svg" width="40" height="40" style="border-radius:50%; background:#00599C; padding:5px;" alt="C++"/>
-  </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openjdk.svg" width="40" height="40" style="border-radius:50%; background:#ED8B00; padding:5px;" alt="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" width="40" height="40" style="border-radius:50%; background:#E34F26; padding:5px;" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" width="40" height="40" style="border-radius:50%; background:#1572B6; padding:5px;" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="40" height="40" style="border-radius:50%; background:#F7DF1E; padding:5px;" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" width="40" height="40" style="border-radius:50%; background:#3178C6; padding:5px;" alt="TypeScript"/>
-  </a>
-  <a href="https://reactnative.dev/docs/getting-started" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" width="40" height="40" style="border-radius:50%; background:#20232A; padding:5px;" alt="React Native"/>
-  </a>
-  <a href="https://docs.spring.io/spring-boot/docs/current/reference/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/springboot.svg" width="40" height="40" style="border-radius:50%; background:#6DB33F; padding:5px;" alt="Spring Boot"/>
-  </a>
-  <a href="https://docs.sonarsource.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sonarqube.svg" width="40" height="40" style="border-radius:50%; background:#4E9BCD; padding:5px;" alt="SonarQube"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gnubash.svg" width="40" height="40" style="border-radius:50%; background:#4EAA25; padding:5px;" alt="Bash"/>
-  </a>
-</p>
+[![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/docs/getting-started)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)](https://docs.sonarsource.com/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html)
 
 ### 💡 Computer Science Foundations
 
